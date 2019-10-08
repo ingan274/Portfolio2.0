@@ -1,5 +1,5 @@
 # Isabel Ngan Portfolio
-View Here: https://ingan274.github.io/
+View Here: https://ingan274.github.io/Portfolio2.0/.
 
 ## Features
 * Fun parallax scrolling as you get to know me
